@@ -8,7 +8,7 @@ def second_challenge
 
   new_array = []
   
-groceries.each |foods|
+groceries.each do |foods|
 
 new_array.push(foods.values)
 end
