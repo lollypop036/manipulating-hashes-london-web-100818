@@ -11,7 +11,7 @@ def second_challenge
 groceries.each |foods|
 
 new_array.merge(foods.values)
-  
+end
 
 new_array
 end
