@@ -10,7 +10,7 @@ def second_challenge
   
 groceries.each do |foods, snack|
 
-new_array.push(snack.split(",").join(","))
+new_array.push(snack.join(",").split(",")))
 end
 
 new_array
