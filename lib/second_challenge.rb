@@ -9,7 +9,7 @@ def second_challenge
   new_array = []
   
     
-new_array.push(food_type.values)
+new_array.push(groceries.values)
   
 end
 new_array
