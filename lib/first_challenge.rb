@@ -18,4 +18,5 @@ contacts["Freddy Mercury"][:favorite_icecream_flavors].each do |detail, value|
   puts details
   puts value
 end
+end
 
