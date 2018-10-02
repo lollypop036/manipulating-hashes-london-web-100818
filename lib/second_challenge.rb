@@ -8,7 +8,7 @@ def second_challenge
 
   new_array = []
   
-new_array.push(groceries.values.split(",").flatten)
+new_array.push(groceries.values.split(",").flatten!)
 
 
 new_array
