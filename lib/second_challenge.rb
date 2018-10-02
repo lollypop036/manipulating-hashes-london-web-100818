@@ -10,7 +10,7 @@ def second_challenge
   
 groceries.each |foods|
 
-new_array.merge(foods.values)
+new_array.push(foods.values)
 end
 
 new_array
