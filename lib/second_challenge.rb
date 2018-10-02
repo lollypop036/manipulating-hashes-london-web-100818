@@ -8,7 +8,7 @@ def second_challenge
 
   new_array = []
   
-groceries.each |food|
+groceries.each |foods|
 
 new_array.merge(foods.values)
   
