@@ -7,7 +7,7 @@ def second_challenge
   }
 
   new_array = []
-  groceries.each do |food_type|
+  
     
 new_array.push(food_type.values)
   
