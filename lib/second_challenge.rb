@@ -8,9 +8,9 @@ def second_challenge
 
   new_array = []
   
-groceries.map do |foods, snack|
+groceries.each do |foods, snack|
 
-new_array.push(snack.values)
+new_array.push(snack.join())
 end
 
 new_array
