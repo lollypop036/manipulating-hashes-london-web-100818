@@ -11,6 +11,6 @@ def second_challenge
     
 new_array.push(groceries.values)
   
-end
+
 new_array
 end
