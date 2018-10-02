@@ -9,7 +9,7 @@ def second_challenge
   new_array = []
   groceries.each do |food_type,food|
     
-new_array.push(food_type.values.to_s)
+new_array.push(food_type.values)
   
 end
 new_array
